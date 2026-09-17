@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech",
+  "description": "A multi-language Text-to-Speech application with natural sounding voices, supporting Indian language voices (Hindi, Tamil, Telugu, English, etc.) with custom speed, tone, download, and playback options.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
